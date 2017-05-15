@@ -1,0 +1,13 @@
+baseurl: governance/
+languages: ['en']
+default_language: 'en'
+ga_tracking_code: 
+
+#SASS settings
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+collections:
+  sections:
+    output: false
