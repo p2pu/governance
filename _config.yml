@@ -1,4 +1,4 @@
-baseurl: governance/
+baseurl: /governance
 languages: ['en']
 default_language: 'en'
 ga_tracking_code: 
