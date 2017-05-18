@@ -2,7 +2,7 @@
 index: 6
 ---
 
-## Leave policy (Approved 10/15 by Board over email)
+## Leave policy
 
 We believe that a well rested team executes better and it is important for us to know that team members have the opportunity to tune out and switch off. We also believe that team members should have the autonomy to set their own schedules, while remaining responsible to the demands of the organization. Each team member is entitled to 15 days of leave per year (accrued at a rate of 1.25 days/month) plus 10 public holidays, aligning with the jurisdiction of residence. In addition, P2PU is closed the week between Dec 25 and January 1 (inclusive) and staff are not required to work that week.  In most cases, leave days can not be accrued.
 

@@ -2,7 +2,7 @@
 index: 8
 ---
 
-## Arbitration (Approved 9/15 by Board over email) 
+## Arbitration
 Occasionally conflict will arise that cannot be solved by team members without an “independent” (not directly affected facilitator). In those cases, this four-step arbitration process can be used as a way to still leave a lot of responsibility in the hands of the team without getting stuck.
 
 1. **Issue**: When we need to make a decision on a key issue, the team sets out the process and timeline to come up with a recommendation. The board can also request the team to find a solution to a particular issue and provide input on possible directions. A board facilitator is nominated by the board, who will participate in the process and represent it to the board. 

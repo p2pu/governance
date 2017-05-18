@@ -2,7 +2,7 @@
 index: 2
 ---
 
-## How we work (Drafted: 1/17 Status: Proposed)
+## How we work
 We use 9-5 local time as a general reference for working hours, but there is a great deal of flexibility, as we are more concerned with getting the job done and making sure we’re staying connected to our colleagues and partners. If team members find themselves with less than 40 hours/week of work, they should speak up, as there may be opportunities to take on new responsibilities or reduce workload for a period of time. We work hard, and we trust that our teammates are working hard too. 
 
 There are a number of tools and processes that we use to collaborate and remain transparent:

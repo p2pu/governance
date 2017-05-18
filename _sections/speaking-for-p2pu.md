@@ -2,7 +2,7 @@
 index: 10
 ---
 
-## Speaking for P2PU (Approved in 9/13 Voice and Tone Guide)
+## Speaking for P2PU (from Voice and Tone Guide)
 We create a lot of content at P2PU, from Twitter to community emails to website copy. While we want each of our team members to shine as individuals, we also want to ensure some consistency in the voice of our organization to model the kind of community behavior we want to see. P2PU is:
 
  - **Smart but not stuffy**. We’re informed, but accessible. A shared understanding is more important than looking smart. Avoid jargon, stiff or bloated language.

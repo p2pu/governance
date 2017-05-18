@@ -2,7 +2,7 @@
 index: 7
 ---
 
-## Travel policy (Approved 12/14 in travel policy)
+## Travel policy
 
 The distributed nature of our team and wide reach of our audience means that working for P2PU will involve some travel. All travel should demonstrate clear value for P2PU, such as executing project work, speaking at an event, or meeting new funders or partners. Incidental travel, side projects, and personal appearances are not eligible for approval. Furthermore, approval of travel does not necessarily mean approval of expenses. 
 

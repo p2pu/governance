@@ -2,7 +2,7 @@
 index: 3
 ---
 
-## Salary model (Approved 8/16 by Board over email)
+## Salary model
 We believe that people should be fairly compensated for the work they do, and that our compensation model should reflect a holistic view of our team. As such, the salary model is decided on collaboratively by the team, and approved by the Board. Our current salary model is comprised of four elements: a base salary, a location adjustment, a years-of-service bonus, and an adjustment for social costs depending on whether the team member is classified as an employee or consultant. Additionally, our model stipulates that nobody should earn more than twice as much as anybody else.
 
 ### The Process

@@ -2,7 +2,7 @@
 index: 5
 ---
 
-## Hiring (Drafted: 1/17 Status: Proposed)
+## Hiring
 
 The team and Board will seek to identify the need for new hires during the annual strategy and budget discussions. If funds are available or can be reasonably identified and the Board approves, the team will draft a job description. The board must approve the job status (team member vs. non-team member), job title, general responsibilities of the role, and salary range before the job description is made public. Once a job description goes out, the team is responsible for identifying candidates for interview and conducting first round interviews. We publicly announce all positions, rather than hiring exclusively through existing networks, to obtain a wide a field of candidates as possible.
 
