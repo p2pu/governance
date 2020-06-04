@@ -8,7 +8,7 @@ P2PU engages individuals at various classifications of interest, responsibility,
 ### Board of Directors (Summarized from P2PU Bylaws)
 The Board, comprised of 4-12 individuals, is responsible for the overall strategy and long-term sustainability of the organization. The Board is responsible for advising on and and making decisions that have broad implications or liabilities for P2PU, such as overall strategy, in-principal litigation, new program investment, new positions, or budget shortfalls. The Board has fiduciary duties to ensure that monies are spent in line with an agreed annual budget and the decisions taken at each board meeting. The bylaws of P2PU require an annual Board meeting, however P2PU currently strives to hold six virtual meetings per year.
 
-The term of each board member is two year, and no board member may serve more than four consecutive terms. However, they may be re-elected to the Board after a one year absence. Additional stipulations of the Board, including nominations, removal and resignation, and the requirements of Board meetings can be found in P2PU’s bylaws and the amendments to the bylaws.
+The term of each board member is two years, and no board member may serve more than four consecutive terms. However, they may be re-elected to the Board after a one year absence. Additional stipulations of the Board, including nominations, removal and resignation, and the requirements of Board meetings can be found in P2PU’s bylaws and the amendments to the bylaws.
 
 ### The Executive Committee
 The Executive Committee is a subcommittee of the Board charged with interfacing with the team on matters that do not require full board involvement. Many issues, including hiring, setting open salaries, and resolving conflict can be decided by the Executive Committee. Depending on the issue at hand, a full Board vote, based on the Executive Committee recommendation, may sometimes be required.
@@ -16,7 +16,7 @@ The Executive Committee is a subcommittee of the Board charged with interfacing 
 ### Board Officers (Summarized from P2PU Bylaws)
 The officers of P2PU are an Executive Director, a Treasurer, a Company Secretary, and any additional officers approved by the Board. The duties of each officer are outlined in P2PU’s bylaws. Any number of offices may be held by the same person, except that neither the secretary nor the treasurer may serve concurrently as either the Executive Director or the Chairperson of the Board. If there is no Executive Director, the chairperson of the Board shall retain the powers and duties of the Executive Director. 
 
-As of February 2017, the officers are: Chairperson (Delia Browne), Executive Director (Philipp Schmidt), and Secretary (Carl Ruppin).
+As of June 2020, the officers are: Chairperson (Philipp Schmidt), Executive Director (Grif Peterson), and Secretary (Carl Ruppin).
 
 ### Team Members
 A team member is an employee, contractor, or volunteer who has been onboarded into P2PU’s  governance and salary model. Team members maintain a good deal autonomy over their work, and are responsible for setting their own goals in consultation with the rest of the team and Board. Each team member contributes to certain governance responsibilities, which include finance, fundraising, communications, marketing, HR, and Board relations. The team is expected to meet on a weekly basis to discuss governance issues, and all major decision points should either be met by consensus or elevated to the Board.
